@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1723921283913,
+      "tag": "0000_overrated_namora",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1723923996067,
+      "tag": "0001_ambitious_silver_centurion",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1723924975894,
+      "tag": "0002_tidy_shotgun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1723927890551,
+      "tag": "0003_slimy_franklin_storm",
+      "breakpoints": true
+    }
+  ]
+}
