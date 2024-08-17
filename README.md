@@ -6,6 +6,7 @@ This repository contains a project I created while taking an introductory course
 
 This project is a practical implementation of the concepts learned throughout the course. It includes:
 
+- **Neon**: Used as the PostgreSQL database platform for managing and hosting the database.
 - **Schema Definitions**: TypeScript schemas that model the database structure.
 - **Migration Files**: SQL migration files generated from the schemas.
 - **SQL-like Queries Examples**: Writing TypeScript code that mirrors SQL syntax.
